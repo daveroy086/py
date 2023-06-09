@@ -1,0 +1,9 @@
+**********
+How to add a folder in my local repo
+	go into the repo right click> new > folder and give it a name
+	BUT, git status doesn't see it and you can't push an empty folder to github
+	It has to contain a file
+	Once it contains a file  
+	git add .
+	git commit
+	git push and now the github repo has the folder and file
