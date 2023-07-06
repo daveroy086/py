@@ -1,0 +1,3 @@
+slgos in puthon progress notes
+
+watch the youtube video and create a git ignore and add this file
