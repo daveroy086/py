@@ -1,6 +1,11 @@
 # breakCamelCase_6.py
 
 def solution(s):
+    '''
+    Given a string 's' which is a one word expression with camelCase,
+    retur0n a string sentence wihh the words seperated and the original
+    capitalization retained.
+    '''
 
     spaces = 0    
     for i, char in enumerate(s):
